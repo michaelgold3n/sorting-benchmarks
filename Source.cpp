@@ -1,9 +1,3 @@
-/*HW Assignment_B.Green.cpp
-Bryce Green
-3/28/2021
-Version 1.0
-The program takes the identical arrays and uses the bubble sort algorithm for the first array and the 
-selction sort algorithm for the other to put them into ascending order!*/
 
 #include <iostream>
 using namespace std;
